@@ -1,0 +1,30 @@
+{
+	"Portfolio": {
+    "name": "Shubham's Portfolio Website",
+    "desc": "Aesthetic portfolio website hosted with CI/CD pipeline on AWS!",
+    "path": "/img_portfolio.jpg",
+    "tags": "Vue# JavaScript",
+    "github": "https://github.com/shubhamn21"
+  },
+  "Infolens": {
+    "name": "In-house Search Engine | 2022",
+    "desc": "PLease click link to watch demo",
+    "path": "/img_infolens.jpg",
+    "tags": "NLP, Search Engine",
+    "link": "https://www.youtube.com/watch?v=_NlfqF21cWU"
+  },
+    "Image-tagging": {
+    "name": "Tag extraction by human saliency | 2019",
+    "desc": "To describe an image with tags ranked by visual importance",
+    "path": "/img_tagging.jpg",
+    "tags": "LSTMs",
+    "link": "https://drive.google.com/file/d/1-mTR8erO2zx-oXijtm1TB5Um4huXukQV/view"
+  },
+  "Plant Disease Detection": {
+    "name": "Plant Disease Detection | 2018",
+    "desc": "Published paper at IEEE for augmentation with GANs",
+    "path": "/img_plantdisease.jpg",
+    "tags": "Machine-Learning",
+    "link": "https://ieeexplore.ieee.org/abstract/document/8376321"
+  }
+}

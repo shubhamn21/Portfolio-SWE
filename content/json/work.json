@@ -1,0 +1,51 @@
+{
+  "Apple": {
+    "company": "Apple, Inc.",
+    "position": "Software Engineering Intern",
+    "dateWorked": "June 2022 - Present",
+    "points": ["Creating splunk dashboard for teams to visualise and drilldown on code quality metrics to improve coverage", 
+      "Worked with advanced internal frameworks to automate and upgrade manual jobs in test pipeline"],
+    "referenceLetter": ""
+  },
+  "Rakuten": {
+    "company": "Rakuten",
+    "position": "Software Engineer",
+    "dateWorked": "September 2019 - July 2021",
+    "points": ["Developed end-to-end Campaign Intelligence Platform to boost ad-based and campaign sales by 5%", 
+      "Designed data pipeline and cloud infra using spark, elastic and SQL to fetch and co-relate 20 GB of data daily",
+       "Built a frontend with HTML, CSS for marketing team with scalable performance using Kubernetes and Docker", 
+       "Analysed empirical data and competitor insights to expand user base and provide targeted incentives", 
+       "Created LSTM based sales predictor to visualise sales 2 weeks into the future with more than 70% accuracy"],
+    "referenceLetter": ""
+  },
+  "Rakuten Institute of Technology": {
+    "company": "Rakuten Institute of Technology",
+    "position": "Research Intern",
+    "dateWorked": "January 2019 - August 2019",
+    "points": ["Face Liveness Detection for Rakuten Pay - A face authentication project to make secure payments by thwarting 2d and 3d masked attacks. Collected face depth data of 300 people by IR sensor using python to create LFW dataset",
+     "Completed a research project under guidance of Research Scientist, Nithish Divakar to describe an image with tags ranked by visual importance. Designed web application to upload images and inference the AI model.",
+      "Aesthetic and Visual Analysis - Proposed automated video metadata extraction to OTT platforms (like Viki/Rakuten TV) to reduce human annotation effort by 90%.",
+      "Created an AI pipeline to process a video and output good quality, distinct and scene classified posters of movies"],
+    "referenceLetter": "/reference_letter_Nithish_Divakar.pdf"
+  },
+  "Rakuten2": {
+    "company": "Rakuten",
+    "position": "Intern",
+    "dateWorked": "October 2018 - December 2018",
+    "points": ["Built Item bundle recommendation engine (where input is a merchant's shop catalogue of more than thousand items and purchase history) to boost cross-item selling using TF-IDF", 
+      "Analysed merchant’s selling history, tokenized japanese text and created a similarity scoring matrix for catalogue",
+      "Developed a hierarchical server health monitoring and alerting system ‘CEAT’, which reduced the server downtime and empowered engineers to take action before any server crash (Similar to APM systems)", 
+      "Created node-link graph using java to understand server dependency and failure impact",
+      "Organized knowledge sharing sessions to discuss NLP concepts in machine learning"],
+    "referenceLetter": ""
+  },
+    "E-zest Solutions": {
+    "company": "E-zest Solutions",
+    "position": "Intern",
+    "dateWorked": "October 2017 - December 2017",
+    "points": ["Presented proof of concepts to integrate voice command operations in CRM app with java",
+      "Built demos with Lex & Lambda, api.ai (now Dialogflow), CMU Pocketsphinx along with a survey of others",
+      "Integrated a trigger word similar to “Ok Google” in the app’s unbound services"],
+    "referenceLetter": ""
+  }
+}
